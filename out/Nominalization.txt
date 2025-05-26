@@ -1,0 +1,48 @@
+ūriaššena
+ūr-i-a-šše-n(e)-a @  @ TR-3A.SG-NMN-RELAT.SG-ESS @ verb @ 
+ūr-i-a-šše-na @  @ TR-3A.SG-NMN-RELAT.PL.ABS @ verb @ 
+
+kādiašše
+kād-i-a-šš(e)-e @  @ TR-3A.SG-NMN-DIR/LOC @ verb @ 
+kād-i-a-šše @  @ TR-3A.SG-NMN.ABS @ verb @ 
+
+arōžawššenēve
+ar-ōž-aw-šše-nē-ve @  @ PST-1A.SG-NMN-RELAT.SG-GEN @ verb @ 
+
+arōžawšše
+ar-ōž-aw-šš(e)-e @  @ PST-1A.SG-NMN-DIR/LOC @ verb @ 
+ar-ōž-aw-šše @  @ PST-1A.SG-NMN.ABS @ verb @ 
+
+arōžaw
+ar-ōž-aw @  @ PST-1A.SG @ verb @ 
+
+tānōžāššena
+tān-ōž-ā-šše-n(e)-a @  @ PST-3A.SG-NMN-RELAT.SG-ESS @ verb @ 
+tān-ōž-ā-šše-na @  @ PST-3A.SG-NMN-RELAT.PL.ABS @ verb @ 
+
+paliamāššeman
+pal-i-a-mā-šš(e)-e=man @  @ TR-3A.SG-NEG-NMN-DIR/LOC=EMPH @ verb @ 
+pal-i-a-mā-šš(e)-e=m=an @  @ TR-3A.SG-NEG-NMN-DIR/LOC=2SG.ABS=CON @ verb @ 
+pal-i-a-mā-šše=man @  @ TR-3A.SG-NEG-NMN.ABS=EMPH @ verb @ 
+pal-i-a-mā-šše=m=an @  @ TR-3A.SG-NEG-NMN.ABS=2SG.ABS=CON @ verb @ 
+
+palikkišše
+pal-i-kki-šš(e)-e @  @ ANTIP-NEG-NMN-DIR/LOC @ verb @ 
+pal-i-kki-šše @  @ ANTIP-NEG-NMN.ABS @ verb @ 
+
+tuppaššena
+tupp-a-šše-n(e)-a @  @ INT-NMN-RELAT.SG-ESS @ verb @ 
+tupp-a-šše-na @  @ INT-NMN-RELAT.PL.ABS @ verb @ 
+
+unaššena
+un-a-šše-n(e)-a @  @ INT-NMN-RELAT.SG-ESS @ verb @ 
+un-a-šše-na @  @ INT-NMN-RELAT.PL.ABS @ verb @ 
+
+nakkašše
+nakk-a-šš(e)-e @  @ INT-NMN-DIR/LOC @ verb @ 
+nakk-a-šše @  @ INT-NMN.ABS @ verb @ 
+
+kebānološtāššena
+keb-ān-ol-ošt-ā-šše-n(e)-a @  @ CAUS-ol-RES-3A.SG-NMN-RELAT.SG-ESS @ verb @ 
+keb-ān-ol-ošt-ā-šše-na @  @ CAUS-ol-RES-3A.SG-NMN-RELAT.PL.ABS @ verb @ 
+

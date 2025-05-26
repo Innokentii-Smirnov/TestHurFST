@@ -1,0 +1,53 @@
+unallān
+un-a=ll(a)=ān @  @ IMP=3PL.ABS=CON @ verb @ 
+un-a=ll(a)=ān @  @ INT=3PL.ABS=CON @ verb @ 
+
+meġa
+meġ-a @  @ IMP @ verb @ 
+meġ-a @  @ INT @ verb @ 
+
+ittošta
+itt-oš-t-a @  @ PST-INT-INT @ verb @ 
+itt-ošt-a @  @ RES-IMP @ verb @ 
+itt-ošt-a @  @ RES-INT @ verb @ 
+
+ūnetta
+ūn-e=tta @  @ IMP=1SG.ABS @ verb @ 
+ūn-et-t-a @  @ FUT-INT-INT @ verb @ 
+
+tašpi
+tašp-i @  @ IMP @ verb @ 
+tašp-i @  @ ANTIP @ verb @ 
+
+ḫimzatḫoži
+ḫimz+atḫ-ož-i @  @ PST-ANTIP @ verb @ 
+
+paššōži
+pašš-ōž-i @  @ PST-ANTIP @ verb @ 
+
+paššedīdan
+pašš-ed-ī=d=an @  @ FUT-ANTIP=1SG.ABS=CON @ verb @ 
+
+paššinan
+pašš-i=n=an @  @ IMP=3SG.ABS=CON @ verb @ 
+pašš-i=n=an @  @ ANTIP=3SG.ABS=CON @ verb @ 
+
+picandožīttān
+pic+and-ož-ī=tt(a)=ān @  @ PST-ANTIP=1SG.ABS=CON @ verb @ 
+
+manni
+mann-i @  @ STAT @ verb @ 
+manni @  @ .SG.ABS @ other @ 
+
+tuppe
+tupp(i)-e @  @ DIR/LOC @ noun @ 
+tupp-e @  @ STAT @ verb @ 
+
+mannattaman
+man(e)-n(e)-a=tta=man @  @ RELAT.SG-ESS=1SG.ABS=EMPH @ noun @ 
+mann-a=tta=man @  @ STAT=1SG.ABS=EMPH @ verb @ 
+
+mannadillaman
+man(e)-n(e)-a=dilla=man @  @ RELAT.SG-ESS=1PL.ABS=EMPH @ noun @ 
+mann-a=dilla=man @  @ STAT=1PL.ABS=EMPH @ verb @ 
+

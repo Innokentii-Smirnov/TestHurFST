@@ -1,0 +1,114 @@
+šēniffuve
+
+
+ašti
+ašt(i)-i @  @ 3POSS.SG.ABS @ noun @ 
+ašti @  @ .ABS @ noun @ 
+
+eliffə
+
+
+paššitḫena
+
+
+šavalla
+šaval(i)-(n>)l(e)-a @  @ RELAT.SG-ESS @ noun @ 
+šaval(i)-(n>)la @  @ RELAT.PL.ABS @ noun @ 
+
+šēniffuž
+šēn(a)-iffu-ž @  @ 1POSS.SG-ERG @ noun @ 
+
+šēnavužan
+šēna-v-o-ž=an @  @ 2POSS.SG-EPNTH-ERG=CON @ noun @ 
+
+manež
+mane-ž @  @ ERG @ noun @ 
+
+keliaž
+kel-i-a-ž @  @ TR-3A-PL @ verb @ 
+kelia-ž @  @ ERG @ noun @ 
+
+teššōbaž
+teššōb-až @  @ ERG @ noun @ 
+teššōb-až @  @ PL.ABS @ noun @ 
+
+ennažož
+en(i)-n(a)-až-o-ž @  @ RELAT.PL-PL-EPNTH-ERG @ noun @ 
+
+šijenažož
+
+
+šēniffuven
+
+
+niḫarive
+
+
+attanivena
+attan(i)-i-ve-n(e)-a @  @ 3POSS.SG-GEN-RELAT.SG-ESS @ noun @ 
+attan(i)-i-ve-na @  @ 3POSS.SG-GEN-RELAT.PL.ABS @ noun @ 
+attani-ve-n(e)-a @  @ GEN-RELAT.SG-ESS @ noun @ 
+attani-ve-na @  @ GEN-RELAT.PL.ABS @ noun @ 
+
+attanivenevena
+
+
+niḫariaže
+
+
+tuppiaž
+tupp(i)-i-až @  @ 3POSS-PL.ABS @ noun @ 
+tuppi-až @  @ PL.ABS @ noun @ 
+
+šimigenež
+
+
+šēniffuva
+
+
+ōllaža
+ōl(i)-(n>)l(a)-až-(v)a @  @ RELAT.PL-PL-DAT @ noun @ 
+ōl(i)-(n>)l(a)-až-a @  @ RELAT.PL-PL-ESS @ noun @ 
+
+ōminnaža
+
+
+šeniffuda
+šen(a)-iffu-da @  @ 1POSS.SG-DIR @ noun @ 
+šen(e)-iffu-da @  @ 1POSS.SG-DIR @ noun @ 
+šen(i)-iffu-da @  @ 1POSS.SG-DIR @ noun @ 
+
+ennašta
+en(i)-n(a)-aš-ta @  @ RELAT.PL-PL-DIR @ noun @ 
+
+paššitḫiffura
+
+
+ardidan
+ard(e)-i-da=n @  @ 3POSS.SG-DIR=3SG.ABS @ noun @ 
+ard(e)-i-dan @  @ 3POSS.SG-ABL @ noun @ 
+ard(e)-i=d=an @  @ 3POSS.SG.ABS=1SG.ABS=CON @ noun @ 
+
+alalae
+alal(i)-ae @  @ INS @ noun @ 
+
+ižuḫnae
+
+
+tižiffan
+tiš(a)-iff(e)-a=n @  @ 1POSS.SG-ESS=3SG.ABS @ noun @ 
+
+tižiažan
+tiš(a)-i-až-(v)a=n @  @ 3POSS-PL-DAT=3SG.ABS @ noun @ 
+tiš(a)-i-až-a=n @  @ 3POSS-PL-ESS=3SG.ABS @ noun @ 
+tiš(a)-i-až=an @  @ 3POSS-PL.ABS=CON @ noun @ 
+
+kazož
+kaz(i)-ož @  @ EQU1 @ noun @ 
+
+šidarna
+šid+ar+n(i)-a @  @ ESS @ noun @ 
+
+ḫalzuḫla
+
+

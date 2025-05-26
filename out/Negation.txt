@@ -1,0 +1,48 @@
+anikki
+an-i-kki @  @ ANTIP-NEG @ verb @ 
+
+ḫilložikkatta
+ḫill-ož-i-kka=tta @  @ PST-ANTIP-NEG=1SG.ABS @ verb @ 
+
+unōkko
+un-ō-kko @  @ INT-NEG @ verb @ 
+
+ūnokkalan
+ūn-o-kka=l=an @  @ INT-NEG=3PL.ABS=CON @ verb @ 
+
+tuppokko
+tupp-o-kko @  @ STAT-NEG @ verb @ 
+tupp-o-kko @  @ INT-NEG @ verb @ 
+
+urokkan
+ur-o-kka=n @  @ STAT-NEG=3SG.ABS @ verb @ 
+
+kuliāma
+kul-i-ā-ma @  @ TR-3A.SG-NEG @ verb @ 
+kul-i-ā=ma @  @ TR-3A.SG=CON @ verb @ 
+
+paššiāma
+pašš-i-ā-ma @  @ TR-3A.SG-NEG @ verb @ 
+pašš-i-ā=ma @  @ TR-3A.SG=CON @ verb @ 
+
+ḫicūġōžiuffu
+ḫic-ūġ-ōž-i-uffu @  @ FACT-PST-i-1A.SG.NEG @ verb @ 
+
+ḫažāživāen
+ḫaž-āž-i-vā-en @  @ āž-i-NEG-3JUSS @ verb @ 
+
+nakkidōven
+nakk-id-ō-v(ā)-en @  @ PL.A-INT-NEG-3JUSS @ verb @ 
+
+urōven
+ur-ō-v(ā)-en @  @ INT-NEG-3JUSS @ verb @ 
+
+ḫažāživallīlla
+ḫaž-āž-i-va-llī=lla @  @ āž-i-NEG-1JUSS=3PL.ABS @ verb @ 
+
+mannobur
+mann-obur @  @ NEG @ verb @ 
+
+furudom
+fur-ud-o-m @  @ NEG-TR.PFV-3A.SG @ verb @ 
+

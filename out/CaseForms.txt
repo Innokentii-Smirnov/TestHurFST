@@ -1,0 +1,91 @@
+šūra
+šū-ra @  @ .SG-COM @ other @ 
+
+manēralan
+manē-ra=l=an @  @ COM=3PL.ABS=CON @ noun @ 
+
+ḫiaroḫḫa
+ḫiar+o+ḫḫ(e)-a @  @ ESS @ noun @ 
+
+nakkašša
+nakk-a-šš(e)-a @  @ INT-NMN-ESS @ verb @ 
+
+fēva
+fē-va @  @ .SG-DAT @ other @ 
+
+magānna
+magānn(i)-a @  @ ESS @ noun @ 
+
+tēššoppama
+tēššob-b-a=ma @  @ 2POSS.SG-ESS=CON @ noun @ 
+tēššob-va=ma @  @ DAT=CON @ noun @ 
+
+tapšāġa
+tapšāġ(i)-a @  @ ESS @ noun @ 
+
+paššiġiffa
+pašš+i+ġ(e)-i=ffa @  @ 3POSS.SG.ABS=2PL.ABS @ noun @ 
+pašš+i+ġ(e)-iff(e)-a @  @ 1POSS.SG-ESS @ noun @ 
+pašš-iġ-i=ffa @  @ iġ-IMP=2PL.ABS @ verb @ 
+pašš-iġ-i=ffa @  @ iġ-ANTIP=2PL.ABS @ verb @ 
+
+ōmīniffa
+ōmīn(i)-i=ffa @  @ 3POSS.SG.ABS=2PL.ABS @ noun @ 
+ōmīn(i)-iff(e)-a @  @ 1POSS.SG-ESS @ noun @ 
+ōmīni=ffa @  @ .ABS=2PL.ABS @ noun @ 
+
+tižiaža
+tiš(a)-i-až-(v)a @  @ 3POSS-PL-DAT @ noun @ 
+tiš(a)-i-až-a @  @ 3POSS-PL-ESS @ noun @ 
+
+aštiffūnna
+ašt(i)-iffū-(n)=nna @  @ 1POSS.SG-ABL/INS=3SG.ABS @ noun @ 
+ašt(i)-iffū-nna @  @ 1POSS.SG-EQU2 @ noun @ 
+
+tupšarriffūnni
+tupšarr(i)-iffū-nni @  @ 1POSS.SG-ASSOC @ noun @ 
+
+šūda
+šū-da @  @ .SG-DIR @ other @ 
+
+šēniffuda
+šēn(a)-iffu-da @  @ 1POSS.SG-DIR @ noun @ 
+
+šēniffudan
+šēn(a)-iffu-da=n @  @ 1POSS.SG-DIR=3SG.ABS @ noun @ 
+šēn(a)-iffu-dan @  @ 1POSS.SG-ABL @ noun @ 
+
+ārdīdan
+ārd(i)-ī-da=n @  @ 3POSS.SG-DIR=3SG.ABS @ noun @ 
+ārd(i)-ī-dan @  @ 3POSS.SG-ABL @ noun @ 
+ārd(i)-ī=d=an @  @ 3POSS.SG.ABS=1SG.ABS=CON @ noun @ 
+
+ēpḫenedan
+ēpḫe-n(e)-e=d=an @  @ RELAT.SG-DIR/LOC=1SG.ABS=CON @ noun @ 
+ēpḫe-ne-da=n @  @ RELAT.SG-DIR=3SG.ABS @ noun @ 
+ēpḫe-ne-dan @  @ RELAT.SG-ABL @ noun @ 
+ēpḫe-ne=d=an @  @ ABL/INS=1SG.ABS=CON @ noun @ 
+
+annudan
+annu-dan @  @ ABL @ other @ 
+
+šuenēdan
+šue-nē-da=n @  @ RELAT.SG-DIR=3SG.ABS @ noun @ 
+šue-nē-dan @  @ RELAT.SG-ABL @ noun @ 
+
+šukkannen
+šukk+a+n(i)-n(e)-e=n @  @ RELAT.SG-DIR/LOC=3SG.ABS @ noun @ 
+šukk+a+n(i)-ne-n @  @ RELAT.SG-ABL/INS @ noun @ 
+
+tivēnen
+tivē-n(e)-e=n @  @ RELAT.SG-DIR/LOC=3SG.ABS @ noun @ 
+tivē-ne-n @  @ RELAT.SG-ABL/INS @ noun @ 
+tivē-ne=n @  @ ABL/INS=3SG.ABS @ noun @ 
+
+faġronnen
+faġr+o+n(i)-n(e)-e=n @  @ RELAT.SG-DIR/LOC=3SG.ABS @ noun @ 
+faġr+o+n(i)-ne-n @  @ RELAT.SG-ABL/INS @ noun @ 
+
+keldiffene
+keld(i)-iffe-ne @  @ 1POSS.SG-ABL/INS @ noun @ 
+
