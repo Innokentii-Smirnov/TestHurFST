@@ -1,6 +1,7 @@
 import os
 import requests
 from os import path
+from os.path import splitext
 def read_infile(infile: str) -> list[tuple[str, list[str]]]:
 	result = list[tuple[str, list[str]]]()
 	with open(infile, 'r', encoding='utf-8') as fin:
@@ -26,7 +27,9 @@ PRED_DIR = 'out'
 CORR_DIR = 'correct'
 CHECK_LOG = 'check_result.txt'
 ERR_DIR = 'errors'
+LINE_TEMPLATE = '{0:20} {1} % ({2}/{3})\n'
 #os.makedirs(ERR_DIR, exist_ok=True)
+general_correct, general_total = 0, 0
 with open(CHECK_LOG, 'w', encoding='utf-8') as check_log:
 	for file in os.listdir(CORR_DIR):
 		predfile = path.join(PRED_DIR, file)
@@ -34,5 +37,11 @@ with open(CHECK_LOG, 'w', encoding='utf-8') as check_log:
 		preddata = read_infile(corrfile)
 		corrdata = read_infile(corrfile)
 		accuracy, correct, total = evaluate(preddata, corrdata)
-		output_line = '{0:20} {1} % ({2}/{3})\n'.format(file, round(accuracy, 2), correct, total)
+		general_correct += correct
+		general_total += total
+		output_line = LINE_TEMPLATE.format(splitext(file)[0], round(accuracy, 2), correct, total)
 		check_log.write(output_line)
+	general_accuracy = 100 * general_correct / general_total
+	output_line = LINE_TEMPLATE.format('Total', round(general_accuracy, 2), general_correct, general_total)
+	check_log.write('\n')
+	check_log.write(output_line)
