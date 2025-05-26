@@ -2,6 +2,7 @@ import os
 import requests
 from os import path
 from os.path import splitext
+from typing import Callable
 def read_infile(infile: str) -> list[tuple[str, list[str]]]:
 	result = list[tuple[str, list[str]]]()
 	with open(infile, 'r', encoding='utf-8') as fin:
@@ -14,12 +15,12 @@ def read_infile(infile: str) -> list[tuple[str, list[str]]]:
 				line = fin.readline().strip()
 				assert line == '', infile
 	return result
-def evaluate(preddata: list[tuple[str, list[str]]], corrdata: list[tuple[str, list[str]]]) -> tuple[float, int, int, list[tuple[str, list[str], list[str]]]]:
+def evaluate(preddata: list[tuple[str, list[str]]], corrdata: list[tuple[str, list[str]]], log: Callable[[str], None]) -> tuple[float, int, int, list[tuple[str, list[str], list[str]]]]:
 	correct, total = 0, 0
 	errors = list[tuple[str, list[str], list[str]]]()
 	for ((pred_word, pred_analyses), (corr_word, corr_analyses)) in zip(preddata, corrdata, strict=True):
 		if pred_word != corr_word:
-			print('Input words not matching: {0} {1}'.format(pred_word, corr_word))
+			log('Input words not matching: {0} {1}\n'.format(pred_word, corr_word))
 		if pred_analyses == corr_analyses:
 			correct += 1
 		else:
@@ -52,7 +53,7 @@ with open(CHECK_LOG, 'w', encoding='utf-8') as check_log:
 		errfile = path.join(ERR_DIR, file)
 		preddata = read_infile(predfile)
 		corrdata = read_infile(corrfile)
-		accuracy, correct, total, errors = evaluate(preddata, corrdata)
+		accuracy, correct, total, errors = evaluate(preddata, corrdata, check_log.write)
 		general_correct += correct
 		general_total += total
 		output_line = LINE_TEMPLATE.format(splitext(file)[0], round(accuracy, 2), correct, total)

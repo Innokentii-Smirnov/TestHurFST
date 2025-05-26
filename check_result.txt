@@ -1,4 +1,5 @@
 AncientHurrian       100.0 % (10/10)
+Input words not matching: šēniffuwe šēniffuve
 Case                 90.91 % (10/11)
 CaseForms            100.0 % (24/24)
 Conjugation          100.0 % (17/17)
@@ -9,6 +10,8 @@ Negation             100.0 % (15/15)
 Nominalization       100.0 % (12/12)
 NonErgative          100.0 % (14/14)
 Nonfinite            100.0 % (18/18)
+Input words not matching: šēniffuwe šēniffuve
+Input words not matching: ōmminnaža ōminnaža
 NounInflection       93.94 % (31/33)
 Numerals             100.0 % (3/3)
 Pronoun              100.0 % (3/3)
