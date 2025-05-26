@@ -3,6 +3,7 @@ import requests
 from os import path
 from os.path import splitext
 from typing import Callable
+from shutil import rmtree
 def read_infile(infile: str) -> list[tuple[str, list[str]]]:
 	result = list[tuple[str, list[str]]]()
 	with open(infile, 'r', encoding='utf-8') as fin:
@@ -44,7 +45,8 @@ CORR_DIR = 'correct'
 CHECK_LOG = 'check_result.txt'
 ERR_DIR = 'errors'
 LINE_TEMPLATE = '{0:20} {1} % ({2}/{3})\n'
-os.makedirs(ERR_DIR, exist_ok=True)
+rmtree(ERR_DIR)
+os.mkdir(ERR_DIR)
 general_correct, general_total = 0, 0
 with open(CHECK_LOG, 'w', encoding='utf-8') as check_log:
 	for file in os.listdir(CORR_DIR):
