@@ -1,0 +1,54 @@
+tānaw
+tān-aw @  @ 1A.SG @ verb @ 
+
+ūriuffunnān
+ūr-i-uffu=nn(a)=ān @  @ TR-1A.SG.NEG=3SG.ABS=CON @ verb @ 
+
+palio
+pal-i-o @  @ TR-2A.SG @ verb @ 
+
+tādia
+tād-i-a @  @ TR-3A.SG @ verb @ 
+
+paššiāma
+pašš-i-ā-ma @  @ TR-3A.SG-NEG @ verb @ 
+pašš-i-ā=ma @  @ TR-3A.SG=CON @ verb @ 
+
+ariamma
+ar-i-a-mma @  @ TR-3A.SG-NEG @ verb @ 
+ar-i-a=m=ma @  @ TR-3A.SG=2SG.ABS=CON @ verb @ 
+ar-i-a=mma @  @ TR-3A.SG=2SG.ABS @ verb @ 
+
+ūrawž
+ūr-aw-ž @  @ 1A-PL @ verb @ 
+
+nakkiuffuž
+nakk-i-uffu-ž @  @ TR-1A.PL.NEG-PL @ verb @ 
+
+nakkioššonna
+nakk-i-ošš+o=nna @  @ TR-2A.PL.NEG=3SG.ABS @ verb @ 
+
+kadēdaw
+kad-ēd-aw @  @ FUT-1A.SG @ verb @ 
+
+arēda
+ar-ēd-a @  @ FUT-3A.SG @ verb @ 
+
+nakkedaššo
+nakk-ed-ašš+o @  @ FUT-2A.PL @ verb @ 
+
+tānožaw
+tān-ož-aw @  @ PST-1A.SG @ verb @ 
+
+kozōžo
+koz-ōž-o @  @ PST-2A.SG @ verb @ 
+
+tānōža
+tān-ōž-a @  @ PST-3A.SG @ verb @ 
+
+irnōġožiama
+irn-ōġ-ož-i-a-ma @  @ FACT-PST-i-3A.SG-NEG @ verb @ 
+
+ḫicūġožiuffu
+ḫic-ūġ-ož-i-uffu @  @ FACT-PST-i-1A.SG.NEG @ verb @ 
+
