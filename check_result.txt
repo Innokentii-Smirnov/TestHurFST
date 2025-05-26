@@ -1,5 +1,5 @@
 AncientHurrian       100.0 % (10/10)
-Case                 100.0 % (11/11)
+Case                 90.91 % (10/11)
 CaseForms            100.0 % (24/24)
 Conjugation          100.0 % (17/17)
 Conjunctions         100.0 % (3/3)
@@ -17,4 +17,4 @@ Resultative          100.0 % (10/10)
 Suffixaufnahme       100.0 % (8/8)
 VerbForms            100.0 % (5/5)
 
-Total                100.0 % (277/277)
+Total                99.64 % (276/277)
