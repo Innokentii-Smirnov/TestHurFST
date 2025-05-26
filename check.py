@@ -1,0 +1,38 @@
+import os
+import requests
+from os import path
+def read_infile(infile: str) -> list[tuple[str, list[str]]]:
+	result = list[tuple[str, list[str]]]()
+	with open(infile, 'r', encoding='utf-8') as fin:
+		while (word := fin.readline().strip()) != '':
+			analyses = list[str]()
+			while (line := fin.readline().strip()) != '':
+				analyses.append(line)
+			result.append((word, analyses))
+			if len(analyses) == 0:
+				line = fin.readline().strip()
+				assert line == '', infile
+	return result
+def evaluate(preddata: list[tuple[str, list[str]]], corrdata: list[tuple[str, list[str]]]) -> tuple[float, int, int]:
+	correct, total = 0, 0
+	for ((pred_word, pred_analyses), (corr_word, corr_analyses)) in zip(preddata, corrdata, strict=True):
+		assert pred_word == corr_word, pred_word + ' ' + corr_word
+		if pred_analyses == corr_analyses:
+			correct += 1
+		total += 1
+	accuracy = 100 * correct / total
+	return accuracy, correct, total
+PRED_DIR = 'out'
+CORR_DIR = 'correct'
+CHECK_LOG = 'check_result.txt'
+ERR_DIR = 'errors'
+#os.makedirs(ERR_DIR, exist_ok=True)
+with open(CHECK_LOG, 'w', encoding='utf-8') as check_log:
+	for file in os.listdir(CORR_DIR):
+		predfile = path.join(PRED_DIR, file)
+		corrfile = path.join(CORR_DIR, file)
+		preddata = read_infile(corrfile)
+		corrdata = read_infile(corrfile)
+		accuracy, correct, total = evaluate(preddata, corrdata)
+		output_line = '{0:20} {1} % ({2}/{3})\n'.format(file, round(accuracy, 2), correct, total)
+		check_log.write(output_line)
