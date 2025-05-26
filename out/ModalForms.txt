@@ -15,7 +15,7 @@ ari
 ar-i @  @ IMP @ verb @ 
 ar-i @  @ ANTIP @ verb @ 
 
-ḫažimma
+%E1%B8%ABa%C5%BEimma
 ḫaž-i=m=ma @  @ IMP=2SG.ABS=CON @ verb @ 
 ḫaž-i=m=ma @  @ ANTIP=2SG.ABS=CON @ verb @ 
 ḫaž-i=mma @  @ IMP=2SG.ABS @ verb @ 
@@ -28,73 +28,73 @@ kelom
 kel-o-m @  @ TR.PFV-3A.SG @ verb @ 
 kel-o=m @  @ IMP.PASS=2SG.ABS @ verb @ 
 
-tādugāriž
+t%C4%81dug%C4%81ri%C5%BE
 tād-ugār-i-ž @  @ RECP-IMP-ž @ verb @ 
 
 agonna
 ag-o=nna @  @ IMP.PASS=3SG.ABS @ verb @ 
 
-kīro
+k%C4%ABro
 kīr-o @  @ IMP.PASS @ verb @ 
 
 kironna
 kir-o=nna @  @ IMP.PASS=3SG.ABS @ verb @ 
 
-kūdo
+k%C5%ABdo
 kūd-o @  @ IMP.PASS @ verb @ 
 
-parnoštož
+parno%C5%A1to%C5%BE
 parn-ošt-o-ž @  @ RES-IMP.PASS-ž @ verb @ 
 
-kelož
+kelo%C5%BE
 kel-o-ž @  @ IMP.PASS-ž @ verb @ 
 
-kolež
+kole%C5%BE
 kol-e-ž @  @ IMP-PL.A @ verb @ 
 kol-e-ž @  @ OPT-ž @ verb @ 
 
-koliž
+koli%C5%BE
 kol-i-ž @  @ IMP-ž @ verb @ 
 
-sulludež
+sullude%C5%BE
 sull+ud-e-ž @  @ IMP-PL.A @ verb @ 
 sull+ud-e-ž @  @ OPT-ž @ verb @ 
 
-sulludiž
+sulludi%C5%BE
 sull+ud-i-ž @  @ IMP-ž @ verb @ 
 
-šalġolež
+%C5%A1al%C4%A1ole%C5%BE
 šalġ-o-l-e-ž @  @ o-l-OPT-ž @ verb @ 
 šalġ-ol-e-ž @  @ ol-IMP-PL.A @ verb @ 
 šalġ-ol-e-ž @  @ ol-OPT-ž @ verb @ 
 
-šalġoliž
+%C5%A1al%C4%A1oli%C5%BE
 šalġ-ol-i-ž @  @ ol-IMP-ž @ verb @ 
 
-ḫažažolež
+%E1%B8%ABa%C5%BEa%C5%BEole%C5%BE
 ḫaž-až-o-l-e-ž @  @ až-o-l-OPT-ž @ verb @ 
 ḫaž-až-ol-e-ž @  @ až-ol-IMP-PL.A @ verb @ 
 ḫaž-až-ol-e-ž @  @ až-ol-OPT-ž @ verb @ 
 
-itkož
+itko%C5%BE
 itk-o-ž @  @ IMP.PASS-ž @ verb @ 
 
-sammalaštož
+sammala%C5%A1to%C5%BE
 samm-al-ašt-o-ž @  @ al-RES-IMP.PASS-ž @ verb @ 
 
-šalġōla
+%C5%A1al%C4%A1%C5%8Dla
 šalġ-ōl-a @  @ ōl-3A.SG @ verb @ 
 
-širadile
+%C5%A1iradile
 šir-ad-i-le @  @ ad-i-1JUSS @ verb @ 
 
 kulle
 kul-(i)-le @  @ i-1JUSS @ verb @ 
 
-ḫāžile
+%E1%B8%AB%C4%81%C5%BEile
 ḫāž-i-le @  @ i-1JUSS @ verb @ 
 
-ḫāžāživallīlla
+%E1%B8%AB%C4%81%C5%BE%C4%81%C5%BEivall%C4%ABlla
 ḫāž-āž-i-va-llī=lla @  @ āž-i-NEG-1JUSS=3PL.ABS @ verb @ 
 
 kadolle
@@ -106,36 +106,36 @@ kad-i=lle @  @ IMP=3PL.ABS @ verb @
 kad-i=lle @  @ ANTIP=3PL.ABS @ verb @ 
 kad-ill-e @  @ INGR-IMP @ verb @ 
 
-tādugārre
+t%C4%81dug%C4%81rre
 tād-ugār-(i)-(l>)re @  @ RECP-i-1JUSS @ verb @ 
 
-faġroštillān
+fa%C4%A1ro%C5%A1till%C4%81n
 faġr-ošt-i=ll(a)=ān @  @ RES-IMP=3PL.ABS=CON @ verb @ 
 faġr-ošt-i=ll(a)=ān @  @ RES-ANTIP=3PL.ABS=CON @ verb @ 
 faġr-ošt-ill-(a)=ān @  @ RES-INGR-3A.SG=CON @ verb @ 
 
-tādugāriž
+t%C4%81dug%C4%81ri%C5%BE
 tād-ugār-i-ž @  @ RECP-IMP-ž @ verb @ 
 
 unevatta
 un-eva=tta @  @ POT=1SG.ABS @ verb @ 
 
-fažēva
+fa%C5%BE%C4%93va
 faž-ēva @  @ POT @ verb @ 
 
-picoštēva
+pico%C5%A1t%C4%93va
 pic-ošt-ēva @  @ RES-POT @ verb @ 
 
-arrevaž
+arreva%C5%BE
 ar-(i)-(l>)r-eva-ž @  @ MOD.ACT-l-POT-PL.A @ verb @ 
 
-tādugārrēva
+t%C4%81dug%C4%81rr%C4%93va
 tād-ugār-(i)-(l>)r-ēva @  @ RECP-MOD.ACT-l-POT @ verb @ 
 
-kadilēva
+kadil%C4%93va
 kad-i-l-ēva @  @ MOD.ACT-l-POT @ verb @ 
 
-ḫilloleva
+%E1%B8%ABilloleva
 ḫill-o-l-eva @  @ o-l-POT @ verb @ 
 ḫill-ol-eva @  @ ol-POT @ verb @ 
 
@@ -146,34 +146,34 @@ tupp-ol-eva @  @ ol-POT @ verb @
 uroleva
 ur-o-l-eva @  @ o-l-POT @ verb @ 
 
-kadilež
+kadile%C5%BE
 kad-i-l-e-ž @  @ MOD.ACT-l-OPT-ž @ verb @ 
 
-ḫāžažilež
+%E1%B8%AB%C4%81%C5%BEa%C5%BEile%C5%BE
 ḫāž-až-i-l-e-ž @  @ až-MOD.ACT-l-OPT-ž @ verb @ 
 
-ḫāžolež
+%E1%B8%AB%C4%81%C5%BEole%C5%BE
 ḫāž-o-l-e-ž @  @ o-l-OPT-ž @ verb @ 
 ḫāž-ol-e-ž @  @ ol-IMP-PL.A @ verb @ 
 ḫāž-ol-e-ž @  @ ol-OPT-ž @ verb @ 
 
-šeġalolež
+%C5%A1e%C4%A1alole%C5%BE
 šeġal-o-l-e-ž @  @ o-l-OPT-ž @ verb @ 
 šeġal-ol-e-ž @  @ ol-OPT-ž @ verb @ 
 
-šeġalolaež
+%C5%A1e%C4%A1alolae%C5%BE
 šeġal-o-l-ae-ž @  @ o-l-OPT-ž @ verb @ 
 šeġal-ol-ae-ž @  @ ol-OPT-ž @ verb @ 
 
-tagolež
+tagole%C5%BE
 tag-o-l-e-ž @  @ o-l-OPT-ž @ verb @ 
 tag-ol-e-ž @  @ ol-OPT-ž @ verb @ 
 
-tagolaež
+tagolae%C5%BE
 tag-o-l-ae-ž @  @ o-l-OPT-ž @ verb @ 
 tag-ol-ae-ž @  @ ol-OPT-ž @ verb @ 
 
-agōžanni
+ag%C5%8D%C5%BEanni
 ag-ōž-anni @  @ PST-DESID @ verb @ 
 
 itkidanni
@@ -185,19 +185,19 @@ am-i-l-anni @  @ MOD.ACT-l-DESID @ verb @
 idilanni
 id-i-l-anni @  @ MOD.ACT-l-DESID @ verb @ 
 
-paššien
+pa%C5%A1%C5%A1ien
 pašš-i-en @  @ i-3JUSS @ verb @ 
 
-ḫāžiennan
+%E1%B8%AB%C4%81%C5%BEiennan
 ḫāž-i-en=n=an @  @ i-3JUSS=3SG.ABS=CON @ verb @ 
 
-ḫāienillān
+%E1%B8%AB%C4%81ienill%C4%81n
 ḫā-i-en+i=ll(a)=ān @  @ i-3JUSS=3PL.ABS=CON @ verb @ 
 
-ḫāiden
+%E1%B8%AB%C4%81iden
 ḫā-id-en @  @ PL.A-3JUSS @ verb @ 
 
-ḫāide
+%E1%B8%AB%C4%81ide
 ḫā-id-e(n) @  @ PL.A-3JUSS @ verb @ 
 
 kutten
@@ -206,15 +206,15 @@ kut-(i)t-en @  @ PL.A-3JUSS @ verb @
 kutte
 kut-(i)t-e(n) @  @ PL.A-3JUSS @ verb @ 
 
-ḫāžāzivāen
+%E1%B8%AB%C4%81%C5%BE%C4%81ziv%C4%81en
 ḫāž-āz-i-vā-en @  @ āz-i-NEG-3JUSS @ verb @ 
 
-ḫicūġivāen
+%E1%B8%ABic%C5%AB%C4%A1iv%C4%81en
 ḫic-ūġ-i-vā-en @  @ FACT-i-NEG-3JUSS @ verb @ 
 
-urōven
+ur%C5%8Dven
 ur-ō-v(ā)-en @  @ INT-NEG-3JUSS @ verb @ 
 
-nakkidōven
+nakkid%C5%8Dven
 nakk-id-ō-v(ā)-en @  @ PL.A-INT-NEG-3JUSS @ verb @ 
 

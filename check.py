@@ -22,7 +22,7 @@ def evaluate(preddata: list[tuple[str, list[str]]], corrdata: list[tuple[str, li
 		if pred_analyses == corr_analyses:
 			correct += 1
 		else:
-			errors.append((corr_word, pred_analyses, corr_analyses))
+			errors.append((pred_word, pred_analyses, corr_analyses))
 		total += 1
 	accuracy = 100 * correct / total
 	return accuracy, correct, total, errors

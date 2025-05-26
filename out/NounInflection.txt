@@ -1,47 +1,47 @@
-šēniffuve
+%C5%A1%C4%93niffuve
 
 
-ašti
+a%C5%A1ti
 ašt(i)-i @  @ 3POSS.SG.ABS @ noun @ 
 ašti @  @ .ABS @ noun @ 
 
-eliffə
+eliff%C9%99
 
 
-paššitḫena
+pa%C5%A1%C5%A1it%E1%B8%ABena
 
 
-šavalla
+%C5%A1avalla
 šaval(i)-(n>)l(e)-a @  @ RELAT.SG-ESS @ noun @ 
 šaval(i)-(n>)la @  @ RELAT.PL.ABS @ noun @ 
 
-šēniffuž
+%C5%A1%C4%93niffu%C5%BE
 šēn(a)-iffu-ž @  @ 1POSS.SG-ERG @ noun @ 
 
-šēnavužan
+%C5%A1%C4%93navu%C5%BEan
 šēna-v-o-ž=an @  @ 2POSS.SG-EPNTH-ERG=CON @ noun @ 
 
-manež
+mane%C5%BE
 mane-ž @  @ ERG @ noun @ 
 
-keliaž
+kelia%C5%BE
 kel-i-a-ž @  @ TR-3A-PL @ verb @ 
 kelia-ž @  @ ERG @ noun @ 
 
-teššōbaž
+te%C5%A1%C5%A1%C5%8Dba%C5%BE
 teššōb-až @  @ ERG @ noun @ 
 teššōb-až @  @ PL.ABS @ noun @ 
 
-ennažož
+enna%C5%BEo%C5%BE
 en(i)-n(a)-až-o-ž @  @ RELAT.PL-PL-EPNTH-ERG @ noun @ 
 
-šijenažož
+%C5%A1ijena%C5%BEo%C5%BE
 
 
-šēniffuven
+%C5%A1%C4%93niffuven
 
 
-niḫarive
+ni%E1%B8%ABarive
 
 
 attanivena
@@ -53,35 +53,35 @@ attani-ve-na @  @ GEN-RELAT.PL.ABS @ noun @
 attanivenevena
 
 
-niḫariaže
+ni%E1%B8%ABaria%C5%BEe
 
 
-tuppiaž
+tuppia%C5%BE
 tupp(i)-i-až @  @ 3POSS-PL.ABS @ noun @ 
 tuppi-až @  @ PL.ABS @ noun @ 
 
-šimigenež
+%C5%A1imigene%C5%BE
 
 
-šēniffuva
+%C5%A1%C4%93niffuva
 
 
-ōllaža
+%C5%8Dlla%C5%BEa
 ōl(i)-(n>)l(a)-až-(v)a @  @ RELAT.PL-PL-DAT @ noun @ 
 ōl(i)-(n>)l(a)-až-a @  @ RELAT.PL-PL-ESS @ noun @ 
 
-ōminnaža
+%C5%8Dminna%C5%BEa
 
 
-šeniffuda
+%C5%A1eniffuda
 šen(a)-iffu-da @  @ 1POSS.SG-DIR @ noun @ 
 šen(e)-iffu-da @  @ 1POSS.SG-DIR @ noun @ 
 šen(i)-iffu-da @  @ 1POSS.SG-DIR @ noun @ 
 
-ennašta
+enna%C5%A1ta
 en(i)-n(a)-aš-ta @  @ RELAT.PL-PL-DIR @ noun @ 
 
-paššitḫiffura
+pa%C5%A1%C5%A1it%E1%B8%ABiffura
 
 
 ardidan
@@ -92,23 +92,23 @@ ard(e)-i=d=an @  @ 3POSS.SG.ABS=1SG.ABS=CON @ noun @
 alalae
 alal(i)-ae @  @ INS @ noun @ 
 
-ižuḫnae
+i%C5%BEu%E1%B8%ABnae
 
 
-tižiffan
+ti%C5%BEiffan
 tiš(a)-iff(e)-a=n @  @ 1POSS.SG-ESS=3SG.ABS @ noun @ 
 
-tižiažan
+ti%C5%BEia%C5%BEan
 tiš(a)-i-až-(v)a=n @  @ 3POSS-PL-DAT=3SG.ABS @ noun @ 
 tiš(a)-i-až-a=n @  @ 3POSS-PL-ESS=3SG.ABS @ noun @ 
 tiš(a)-i-až=an @  @ 3POSS-PL.ABS=CON @ noun @ 
 
-kazož
+kazo%C5%BE
 kaz(i)-ož @  @ EQU1 @ noun @ 
 
-šidarna
+%C5%A1idarna
 šid+ar+n(i)-a @  @ ESS @ noun @ 
 
-ḫalzuḫla
+%E1%B8%ABalzu%E1%B8%ABla
 
 

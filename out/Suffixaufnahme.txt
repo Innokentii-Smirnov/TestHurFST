@@ -1,26 +1,26 @@
-šēniffe
+%C5%A1%C4%93niffe
 šēn(a)-iff(e)-e @  @ 1POSS.SG-DIR/LOC @ noun @ 
 šēn(a)-iffe @  @ 1POSS.SG.ABS @ noun @ 
 
-šēniffuwemān
+%C5%A1%C4%93niffuwem%C4%81n
 šēn(a)-iffu-we=mān @  @ 1POSS.SG-GEN=CON @ noun @ 
 
-šēniffuwenež
+%C5%A1%C4%93niffuwene%C5%BE
 šēn(a)-iffu-we-ne-ž @  @ 1POSS.SG-GEN-RELAT.SG-ERG @ noun @ 
 
-attannež
+attanne%C5%BE
 attan(i)-ne-ž @  @ RELAT.SG-ERG @ noun @ 
 
 attannevena
 attan(i)-ne-ve-n(e)-a @  @ RELAT.SG-GEN-RELAT.SG-ESS @ noun @ 
 attan(i)-ne-ve-na @  @ RELAT.SG-GEN-RELAT.PL.ABS @ noun @ 
 
-attannevenašta
+attannevena%C5%A1ta
 attan(i)-ne-ve-n(a)-aš-ta @  @ RELAT.SG-GEN-RELAT.PL-PL-DIR @ noun @ 
 
-šēniffuweneve
+%C5%A1%C4%93niffuweneve
 šēn(a)-iffu-we-ne-ve @  @ 1POSS.SG-GEN-RELAT.SG-GEN @ noun @ 
 
-šēniffuweneveneve
+%C5%A1%C4%93niffuweneveneve
 
 

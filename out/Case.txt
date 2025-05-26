@@ -4,17 +4,17 @@ everna
 maganna
 magann(i)-a @  @ ESS @ noun @ 
 
-ḫāžarae
+%E1%B8%AB%C4%81%C5%BEarae
 ḫāž+ar(i)-ae @  @ INS @ noun @ 
 
-tēššoppe
+t%C4%93%C5%A1%C5%A1oppe
 tēššob-b-e @  @ 2POSS.SG-DIR/LOC @ noun @ 
 tēššob-ve @  @ GEN @ noun @ 
 
-tārrež
+t%C4%81rre%C5%BE
 tār(i)-(n>)re-ž @  @ RELAT.SG-ERG @ noun @ 
 
-ennāža
+enn%C4%81%C5%BEa
 en(i)-n(a)-āž-(v)a @  @ RELAT.PL-PL-DAT @ noun @ 
 en(i)-n(a)-āž-a @  @ RELAT.PL-PL-ESS @ noun @ 
 
@@ -22,16 +22,16 @@ evrenna
 evre+n(i)-n(e)-a @  @ RELAT.SG-ESS @ noun @ 
 evre+n(i)-na @  @ RELAT.PL.ABS @ noun @ 
 
-kebellāžož
+kebell%C4%81%C5%BEo%C5%BE
 kebel(i)-(n>)l(a)-āž-o-ž @  @ RELAT.PL-PL-EPNTH-ERG @ noun @ 
 
-attaivož
+attaivo%C5%BE
 atta+i-v-o-ž @  @ 2POSS.SG-EPNTH-ERG @ noun @ 
 
-šēniffuve
+%C5%A1%C4%93niffuwe
+šēn(a)-iffu-we @  @ 1POSS.SG-GEN @ noun @ 
 
-
-tuppiaž
+tuppia%C5%BE
 tupp(i)-i-až @  @ 3POSS-PL.ABS @ noun @ 
 tuppi-až @  @ PL.ABS @ noun @ 
 

@@ -1,0 +1,36 @@
+%C5%A1avalla
+šaval(i)-(n>)l(e)-a @  @  @ unk @
+šaval(i)-(n>)la @  @  @ unk @
+
+šaval(i)-(n>)l(e)-a @  @ RELAT.SG-ESS @ noun @
+šaval(i)-(n>)la @  @ RELAT.PL.ABS @ noun @
+
+
+te%C5%A1%C5%A1%C5%8Dba%C5%BE
+teššōb-až @  @ PL.ABS @ noun @
+teššōb-až @  @ ERG @ noun @
+
+teššōb-až @  @ ERG @ noun @
+teššōb-až @  @ PL.ABS @ noun @
+
+
+enna%C5%BEo%C5%BE
+en(i)-n(a)-až-o-ž @  @  @ unk @
+
+en(i)-n(a)-až-o-ž @  @ RELAT.PL-PL-EPNTH-ERG @ noun @
+
+
+%C5%8Dlla%C5%BEa
+ōl(i)-(n>)l(a)-až-(v)a @  @  @ unk @
+ōl(i)-(n>)l(a)-až-a @  @  @ unk @
+
+ōl(i)-(n>)l(a)-až-(v)a @  @ RELAT.PL-PL-DAT @ noun @
+ōl(i)-(n>)l(a)-až-a @  @ RELAT.PL-PL-ESS @ noun @
+
+
+enna%C5%A1ta
+en(i)-n(a)-aš-ta @  @  @ unk @
+
+en(i)-n(a)-aš-ta @  @ RELAT.PL-PL-DIR @ noun @
+
+

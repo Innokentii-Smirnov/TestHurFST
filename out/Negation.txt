@@ -1,13 +1,13 @@
 anikki
 an-i-kki @  @ ANTIP-NEG @ verb @ 
 
-ḫilložikkatta
+%E1%B8%ABillo%C5%BEikkatta
 ḫill-ož-i-kka=tta @  @ PST-ANTIP-NEG=1SG.ABS @ verb @ 
 
-unōkko
+un%C5%8Dkko
 un-ō-kko @  @ INT-NEG @ verb @ 
 
-ūnokkalan
+%C5%ABnokkalan
 ūn-o-kka=l=an @  @ INT-NEG=3PL.ABS=CON @ verb @ 
 
 tuppokko
@@ -17,27 +17,27 @@ tupp-o-kko @  @ INT-NEG @ verb @
 urokkan
 ur-o-kka=n @  @ STAT-NEG=3SG.ABS @ verb @ 
 
-kuliāma
+kuli%C4%81ma
 kul-i-ā-ma @  @ TR-3A.SG-NEG @ verb @ 
 kul-i-ā=ma @  @ TR-3A.SG=CON @ verb @ 
 
-paššiāma
+pa%C5%A1%C5%A1i%C4%81ma
 pašš-i-ā-ma @  @ TR-3A.SG-NEG @ verb @ 
 pašš-i-ā=ma @  @ TR-3A.SG=CON @ verb @ 
 
-ḫicūġōžiuffu
+%E1%B8%ABic%C5%AB%C4%A1%C5%8D%C5%BEiuffu
 ḫic-ūġ-ōž-i-uffu @  @ FACT-PST-i-1A.SG.NEG @ verb @ 
 
-ḫažāživāen
+%E1%B8%ABa%C5%BE%C4%81%C5%BEiv%C4%81en
 ḫaž-āž-i-vā-en @  @ āž-i-NEG-3JUSS @ verb @ 
 
-nakkidōven
+nakkid%C5%8Dven
 nakk-id-ō-v(ā)-en @  @ PL.A-INT-NEG-3JUSS @ verb @ 
 
-urōven
+ur%C5%8Dven
 ur-ō-v(ā)-en @  @ INT-NEG-3JUSS @ verb @ 
 
-ḫažāživallīlla
+%E1%B8%ABa%C5%BE%C4%81%C5%BEivall%C4%ABlla
 ḫaž-āž-i-va-llī=lla @  @ āž-i-NEG-1JUSS=3PL.ABS @ verb @ 
 
 mannobur

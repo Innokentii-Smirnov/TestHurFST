@@ -1,66 +1,66 @@
-šūra
+%C5%A1%C5%ABra
 šū-ra @  @ .SG-COM @ other @ 
 
-manēralan
+man%C4%93ralan
 manē-ra=l=an @  @ COM=3PL.ABS=CON @ noun @ 
 
-ḫiaroḫḫa
+%E1%B8%ABiaro%E1%B8%AB%E1%B8%ABa
 ḫiar+o+ḫḫ(e)-a @  @ ESS @ noun @ 
 
-nakkašša
+nakka%C5%A1%C5%A1a
 nakk-a-šš(e)-a @  @ INT-NMN-ESS @ verb @ 
 
-fēva
+f%C4%93va
 fē-va @  @ .SG-DAT @ other @ 
 
-magānna
+mag%C4%81nna
 magānn(i)-a @  @ ESS @ noun @ 
 
-tēššoppama
+t%C4%93%C5%A1%C5%A1oppama
 tēššob-b-a=ma @  @ 2POSS.SG-ESS=CON @ noun @ 
 tēššob-va=ma @  @ DAT=CON @ noun @ 
 
-tapšāġa
+tap%C5%A1%C4%81%C4%A1a
 tapšāġ(i)-a @  @ ESS @ noun @ 
 
-paššiġiffa
+pa%C5%A1%C5%A1i%C4%A1iffa
 pašš+i+ġ(e)-i=ffa @  @ 3POSS.SG.ABS=2PL.ABS @ noun @ 
 pašš+i+ġ(e)-iff(e)-a @  @ 1POSS.SG-ESS @ noun @ 
 pašš-iġ-i=ffa @  @ iġ-IMP=2PL.ABS @ verb @ 
 pašš-iġ-i=ffa @  @ iġ-ANTIP=2PL.ABS @ verb @ 
 
-ōmīniffa
+%C5%8Dm%C4%ABniffa
 ōmīn(i)-i=ffa @  @ 3POSS.SG.ABS=2PL.ABS @ noun @ 
 ōmīn(i)-iff(e)-a @  @ 1POSS.SG-ESS @ noun @ 
 ōmīni=ffa @  @ .ABS=2PL.ABS @ noun @ 
 
-tižiaža
+ti%C5%BEia%C5%BEa
 tiš(a)-i-až-(v)a @  @ 3POSS-PL-DAT @ noun @ 
 tiš(a)-i-až-a @  @ 3POSS-PL-ESS @ noun @ 
 
-aštiffūnna
+a%C5%A1tiff%C5%ABnna
 ašt(i)-iffū-(n)=nna @  @ 1POSS.SG-ABL/INS=3SG.ABS @ noun @ 
 ašt(i)-iffū-nna @  @ 1POSS.SG-EQU2 @ noun @ 
 
-tupšarriffūnni
+tup%C5%A1arriff%C5%ABnni
 tupšarr(i)-iffū-nni @  @ 1POSS.SG-ASSOC @ noun @ 
 
-šūda
+%C5%A1%C5%ABda
 šū-da @  @ .SG-DIR @ other @ 
 
-šēniffuda
+%C5%A1%C4%93niffuda
 šēn(a)-iffu-da @  @ 1POSS.SG-DIR @ noun @ 
 
-šēniffudan
+%C5%A1%C4%93niffudan
 šēn(a)-iffu-da=n @  @ 1POSS.SG-DIR=3SG.ABS @ noun @ 
 šēn(a)-iffu-dan @  @ 1POSS.SG-ABL @ noun @ 
 
-ārdīdan
+%C4%81rd%C4%ABdan
 ārd(i)-ī-da=n @  @ 3POSS.SG-DIR=3SG.ABS @ noun @ 
 ārd(i)-ī-dan @  @ 3POSS.SG-ABL @ noun @ 
 ārd(i)-ī=d=an @  @ 3POSS.SG.ABS=1SG.ABS=CON @ noun @ 
 
-ēpḫenedan
+%C4%93p%E1%B8%ABenedan
 ēpḫe-n(e)-e=d=an @  @ RELAT.SG-DIR/LOC=1SG.ABS=CON @ noun @ 
 ēpḫe-ne-da=n @  @ RELAT.SG-DIR=3SG.ABS @ noun @ 
 ēpḫe-ne-dan @  @ RELAT.SG-ABL @ noun @ 
@@ -69,20 +69,20 @@ tupšarr(i)-iffū-nni @  @ 1POSS.SG-ASSOC @ noun @
 annudan
 annu-dan @  @ ABL @ other @ 
 
-šuenēdan
+%C5%A1uen%C4%93dan
 šue-nē-da=n @  @ RELAT.SG-DIR=3SG.ABS @ noun @ 
 šue-nē-dan @  @ RELAT.SG-ABL @ noun @ 
 
-šukkannen
+%C5%A1ukkannen
 šukk+a+n(i)-n(e)-e=n @  @ RELAT.SG-DIR/LOC=3SG.ABS @ noun @ 
 šukk+a+n(i)-ne-n @  @ RELAT.SG-ABL/INS @ noun @ 
 
-tivēnen
+tiv%C4%93nen
 tivē-n(e)-e=n @  @ RELAT.SG-DIR/LOC=3SG.ABS @ noun @ 
 tivē-ne-n @  @ RELAT.SG-ABL/INS @ noun @ 
 tivē-ne=n @  @ ABL/INS=3SG.ABS @ noun @ 
 
-faġronnen
+fa%C4%A1ronnen
 faġr+o+n(i)-n(e)-e=n @  @ RELAT.SG-DIR/LOC=3SG.ABS @ noun @ 
 faġr+o+n(i)-ne-n @  @ RELAT.SG-ABL/INS @ noun @ 
 

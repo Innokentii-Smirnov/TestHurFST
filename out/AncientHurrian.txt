@@ -1,32 +1,32 @@
-naḫḫab
+na%E1%B8%AB%E1%B8%ABab
 naḫḫ-a-b @  @ INT-b @ verb @ 
 
-sugmuštab
+sugmu%C5%A1tab
 sugm-ušt-a-b @  @ RES-INT-b @ verb @ 
 
 agib
 ag-i-b @  @ ANTIP-b @ verb @ 
 
-ḫillib
+%E1%B8%ABillib
 ḫill-i-b @  @ ANTIP-b @ verb @ 
 
-mūžib
+m%C5%AB%C5%BEib
 mūž-i-b @  @ ANTIP-b @ verb @ 
 
-melaḫḫom
+mela%E1%B8%AB%E1%B8%ABom
 mel-aḫḫ-o-m @  @ aḫḫ-TR.PFV-3A.SG @ verb @ 
 mel-aḫḫ-o=m @  @ aḫḫ-IMP.PASS=2SG.ABS @ verb @ 
 
-mužōlōm
+mu%C5%BE%C5%8Dl%C5%8Dm
 muž-ōl-ō-m @  @ ōl-TR.PFV-3A.SG @ verb @ 
 
-paaštom
+paa%C5%A1tom
 pa-ašt-o-m @  @ RES-TR.PFV-3A.SG @ verb @ 
 pa-ašt-o=m @  @ RES-IMP.PASS=2SG.ABS @ verb @ 
 
-tūnido
+t%C5%ABnido
 tūn-id-o @  @ PL.ERG-TR.PFV @ verb @ 
 
-naḫḫōžo
+na%E1%B8%AB%E1%B8%AB%C5%8D%C5%BEo
 naḫḫ-ōž-o @  @ PST-2A.SG @ verb @ 
 

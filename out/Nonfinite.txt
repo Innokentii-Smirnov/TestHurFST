@@ -1,10 +1,10 @@
-fažain
+fa%C5%BEain
 faž-ai-n @  @ PURP-SG @ verb @ 
 
-ittaižalla
+ittai%C5%BEalla
 itt-ai-ža=lla @  @ PURP-PL=3PL.ABS @ verb @ 
 
-ḫužaure
+%E1%B8%ABu%C5%BEaure
 ḫuž-au-re @  @ PAT-PTCP @ verb @ 
 
 tabiri
@@ -16,10 +16,10 @@ pairi
 pa+i+r(e)-i @  @ 3POSS.SG.ABS @ noun @ 
 pa-i-ri @  @ ANTIP-PTCP @ verb @ 
 
-naḫḫilāi
+na%E1%B8%AB%E1%B8%ABil%C4%81i
 naḫḫ-i-l-āi @  @ MOD.ACT-l-PURP @ verb @ 
 
-šidilāi
+%C5%A1idil%C4%81i
 šid-i-l-āi @  @ MOD.ACT-l-PURP @ verb @ 
 
 pallain
@@ -33,11 +33,11 @@ alumain
 al-u+m+ai+n @  @ CVB @ verb @ 
 al-u+m+ai=n @  @ CVB=3SG.ABS @ verb @ 
 
-furimaīn
+furima%C4%ABn
 fur-i+m+aī+n @  @ CVB @ verb @ 
 fur-i+m+aī=n @  @ CVB=3SG.ABS @ verb @ 
 
-fažumai
+fa%C5%BEumai
 faž-u+m+ai @  @ CVB @ verb @ 
 
 aladumme
@@ -46,7 +46,7 @@ al-ad-umme @  @ ad-INF @ verb @
 alad-umm(e)-e @  @ INF-DIR/LOC @ verb @ 
 alad-umme @  @ INF @ verb @ 
 
-ḫezmumme
+%E1%B8%ABezmumme
 ḫezm-umm(e)-e @  @ INF-DIR/LOC @ verb @ 
 ḫezm-umme @  @ INF @ verb @ 
 
@@ -54,13 +54,13 @@ ittumme
 itt-umm(e)-e @  @ INF-DIR/LOC @ verb @ 
 itt-umme @  @ INF @ verb @ 
 
-šinapšumme
+%C5%A1inap%C5%A1umme
 šin+apš-umm(e)-e @  @ INF-DIR/LOC @ verb @ 
 šin+apš-umme @  @ INF @ verb @ 
 
-puġugarumma
+pu%C4%A1ugarumma
 puġ-ugar-umm(e)-a @  @ RECP-INF-ESS @ verb @ 
 
-ḫalvummene
+%E1%B8%ABalvummene
 ḫalv-umme-ne @  @ INF-ABL/INS @ verb @ 
 

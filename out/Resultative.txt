@@ -1,33 +1,33 @@
-anašta
+ana%C5%A1ta
 an-ašt-a @  @ RES-3A.SG @ verb @ 
 
-paašta
+paa%C5%A1ta
 pa-ašt-a @  @ RES-3A.SG @ verb @ 
 
-pedešta
+pede%C5%A1ta
 ped-ešt-a @  @ RES-3A.SG @ verb @ 
 
-teġešta
+te%C4%A1e%C5%A1ta
 teġ-ešt-a @  @ RES-IMP @ verb @ 
 teġ-ešt-a @  @ RES-INT @ verb @ 
 
-firvirišta
+firviri%C5%A1ta
 firvir-išt-a @  @ RES-3A.SG @ verb @ 
 
-kozošta
+kozo%C5%A1ta
 koz-ošt-a @  @ RES-3A.SG @ verb @ 
 
-ḫubušta
+%E1%B8%ABubu%C5%A1ta
 ḫub-ušt-a @  @ RES-3A.SG @ verb @ 
 
-picošta
+pico%C5%A1ta
 pic-oš-t-a @  @ PST-INT-INT @ verb @ 
 pic-ošt-a @  @ RES-IMP @ verb @ 
 pic-ošt-a @  @ RES-INT @ verb @ 
 
-picandišta
+picandi%C5%A1ta
 pic+and-išt-a @  @ RES-3A.SG @ verb @ 
 
-parnošta
+parno%C5%A1ta
 parn-ošt-a @  @ RES-3A.SG @ verb @ 
 

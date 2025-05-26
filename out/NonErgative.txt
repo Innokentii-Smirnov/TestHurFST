@@ -1,38 +1,38 @@
-unallān
+unall%C4%81n
 un-a=ll(a)=ān @  @ IMP=3PL.ABS=CON @ verb @ 
 un-a=ll(a)=ān @  @ INT=3PL.ABS=CON @ verb @ 
 
-meġa
+me%C4%A1a
 meġ-a @  @ IMP @ verb @ 
 meġ-a @  @ INT @ verb @ 
 
-ittošta
+itto%C5%A1ta
 itt-oš-t-a @  @ PST-INT-INT @ verb @ 
 itt-ošt-a @  @ RES-IMP @ verb @ 
 itt-ošt-a @  @ RES-INT @ verb @ 
 
-ūnetta
+%C5%ABnetta
 ūn-e=tta @  @ IMP=1SG.ABS @ verb @ 
 ūn-et-t-a @  @ FUT-INT-INT @ verb @ 
 
-tašpi
+ta%C5%A1pi
 tašp-i @  @ IMP @ verb @ 
 tašp-i @  @ ANTIP @ verb @ 
 
-ḫimzatḫoži
+%E1%B8%ABimzat%E1%B8%ABo%C5%BEi
 ḫimz+atḫ-ož-i @  @ PST-ANTIP @ verb @ 
 
-paššōži
+pa%C5%A1%C5%A1%C5%8D%C5%BEi
 pašš-ōž-i @  @ PST-ANTIP @ verb @ 
 
-paššedīdan
+pa%C5%A1%C5%A1ed%C4%ABdan
 pašš-ed-ī=d=an @  @ FUT-ANTIP=1SG.ABS=CON @ verb @ 
 
-paššinan
+pa%C5%A1%C5%A1inan
 pašš-i=n=an @  @ IMP=3SG.ABS=CON @ verb @ 
 pašš-i=n=an @  @ ANTIP=3SG.ABS=CON @ verb @ 
 
-picandožīttān
+picando%C5%BE%C4%ABtt%C4%81n
 pic+and-ož-ī=tt(a)=ān @  @ PST-ANTIP=1SG.ABS=CON @ verb @ 
 
 manni
