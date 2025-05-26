@@ -1,16 +1,16 @@
-t%C4%81naw
+tānaw
 tān-aw @  @ 1A.SG @ verb @ 
 
-%C5%ABriuffunn%C4%81n
+ūriuffunnān
 ūr-i-uffu=nn(a)=ān @  @ TR-1A.SG.NEG=3SG.ABS=CON @ verb @ 
 
 palio
 pal-i-o @  @ TR-2A.SG @ verb @ 
 
-t%C4%81dia
+tādia
 tād-i-a @  @ TR-3A.SG @ verb @ 
 
-pa%C5%A1%C5%A1i%C4%81ma
+paššiāma
 pašš-i-ā-ma @  @ TR-3A.SG-NEG @ verb @ 
 pašš-i-ā=ma @  @ TR-3A.SG=CON @ verb @ 
 
@@ -19,36 +19,36 @@ ar-i-a-mma @  @ TR-3A.SG-NEG @ verb @
 ar-i-a=m=ma @  @ TR-3A.SG=2SG.ABS=CON @ verb @ 
 ar-i-a=mma @  @ TR-3A.SG=2SG.ABS @ verb @ 
 
-%C5%ABraw%C5%BE
+ūrawž
 ūr-aw-ž @  @ 1A-PL @ verb @ 
 
-nakkiuffu%C5%BE
+nakkiuffuž
 nakk-i-uffu-ž @  @ TR-1A.PL.NEG-PL @ verb @ 
 
-nakkio%C5%A1%C5%A1onna
+nakkioššonna
 nakk-i-ošš+o=nna @  @ TR-2A.PL.NEG=3SG.ABS @ verb @ 
 
-kad%C4%93daw
+kadēdaw
 kad-ēd-aw @  @ FUT-1A.SG @ verb @ 
 
-ar%C4%93da
+arēda
 ar-ēd-a @  @ FUT-3A.SG @ verb @ 
 
-nakkeda%C5%A1%C5%A1o
+nakkedaššo
 nakk-ed-ašš+o @  @ FUT-2A.PL @ verb @ 
 
-t%C4%81no%C5%BEaw
+tānožaw
 tān-ož-aw @  @ PST-1A.SG @ verb @ 
 
-koz%C5%8D%C5%BEo
+kozōžo
 koz-ōž-o @  @ PST-2A.SG @ verb @ 
 
-t%C4%81n%C5%8D%C5%BEa
+tānōža
 tān-ōž-a @  @ PST-3A.SG @ verb @ 
 
-irn%C5%8D%C4%A1o%C5%BEiama
+irnōġožiama
 irn-ōġ-ož-i-a-ma @  @ FACT-PST-i-3A.SG-NEG @ verb @ 
 
-%E1%B8%ABic%C5%AB%C4%A1o%C5%BEiuffu
+ḫicūġožiuffu
 ḫic-ūġ-ož-i-uffu @  @ FACT-PST-i-1A.SG.NEG @ verb @ 
 

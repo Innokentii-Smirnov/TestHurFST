@@ -1,38 +1,38 @@
 kulle
 kul-(i)-le @  @ i-1JUSS @ verb @ 
 
-n%C4%81ll%C4%93%C5%BE
+nāllēž
 nāl(i)-(n>)lē-ž @  @ RELAT.SG-ERG @ noun @ 
 
-%C4%93nna
+ēnna
 ēn(i)-n(e)-a @  @ RELAT.SG-ESS @ noun @ 
 ēn(i)-na @  @ RELAT.PL.ABS @ noun @ 
 
-arreva%C5%BE
+arrevaž
 ar-(i)-(l>)r-eva-ž @  @ MOD.ACT-l-POT-PL.A @ verb @ 
 
-ni%C4%A1%C4%81rr%C4%93ve
+niġārrēve
 niġār(i)-(n>)rē-ve @  @ RELAT.SG-GEN @ noun @ 
 
-k%C4%93bell%C4%81%C5%BEo%C5%BE
+kēbellāžož
 kēbe+l(i)-(n>)l(a)-āž-o-ž @  @ RELAT.PL-PL-EPNTH-ERG @ noun @ 
 
-talo%C4%A1oll%C4%93ve
+taloġollēve
 taloġol(i)-(n>)lē-ve @  @ RELAT.SG-GEN @ noun @ 
 
-pabann%C4%93n
+pabannēn
 paba+n(i)-nē-n @  @ RELAT.SG-ABL/INS @ noun @ 
 
 evrenna
 evre+n(i)-n(e)-a @  @ RELAT.SG-ESS @ noun @ 
 evre+n(i)-na @  @ RELAT.PL.ABS @ noun @ 
 
-%E1%B8%ABavoronn%C4%93ve
+ḫavoronnēve
 ḫavoron(i)-nē-ve @  @ RELAT.SG-GEN @ noun @ 
 
-%C5%A1%C4%93niffu%C5%A1%C5%A1a
+šēniffušša
 šēn(a)-iffu-ž=nna @  @ 1POSS.SG-ERG=3SG.ABS @ noun @ 
 
-na%E1%B8%AB%E1%B8%ABobado%C5%A1%C5%A1a
+naḫḫobadošša
 
 

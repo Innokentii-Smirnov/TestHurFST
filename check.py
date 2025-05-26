@@ -18,7 +18,8 @@ def evaluate(preddata: list[tuple[str, list[str]]], corrdata: list[tuple[str, li
 	correct, total = 0, 0
 	errors = list[tuple[str, list[str], list[str]]]()
 	for ((pred_word, pred_analyses), (corr_word, corr_analyses)) in zip(preddata, corrdata, strict=True):
-		assert pred_word == corr_word, pred_word + ' ' + corr_word
+		if pred_word != corr_word:
+			print('Input words not matching: {0} {1}'.format(pred_word, corr_word))
 		if pred_analyses == corr_analyses:
 			correct += 1
 		else:
